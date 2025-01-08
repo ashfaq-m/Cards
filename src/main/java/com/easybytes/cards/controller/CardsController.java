@@ -1,10 +1,11 @@
-package com.eazybytes.cards.controller;
+package com.easybytes.cards.controller;
 
-import com.eazybytes.cards.constants.CardsConstants;
-import com.eazybytes.cards.dto.CardsDto;
-import com.eazybytes.cards.dto.ErrorResponseDto;
-import com.eazybytes.cards.dto.ResponseDto;
-import com.eazybytes.cards.service.ICardsService;
+
+import com.easybytes.cards.constants.CardsConstants;
+import com.easybytes.cards.dto.CardsDto;
+import com.easybytes.cards.dto.ErrorResponseDto;
+import com.easybytes.cards.dto.ResponseDto;
+import com.easybytes.cards.service.ICardsService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;

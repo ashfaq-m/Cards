@@ -1,4 +1,4 @@
-package com.eazybytes.cards.dto;
+package com.easybytes.cards.dto;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotEmpty;

@@ -1,4 +1,4 @@
-package com.eazybytes.cards;
+package com.easybytes.cards;
 
 import io.swagger.v3.oas.annotations.ExternalDocumentation;
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
